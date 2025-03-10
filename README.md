@@ -37,4 +37,4 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 
 ## 💼 Portfolio 👇  
 
-🚀 **[Explore My Projects](https://github.com/your-username?tab=repositories)*
+🚀 **[Explore My Projects](https://github.com/Emma-3008/Emma-3008))*
