@@ -30,12 +30,12 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 
 ## 🌍 Connect with Me  
 
-[![GitHub] https://github.com/Emma-3008/Emma-3008)  
-[![LinkedIn][(https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/emmanuel-kyei-yeboah-5b73531b1/)  
-📧 Email: emma556@live.com  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github)](https://github.com/Emma-3008/Emma-3008)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/emmanuel-kyei-yeboah-5b73531b1/)  
+📧 Email: [emma556@live.com)  
 
 ---
 
 ## 💼 Portfolio 👇  
 
-🚀 **[Explore My Projects](https://github.com/your-username?tab=repositories)**  
+🚀 **[Explore My Projects](https://github.com/your-username?tab=repositories)*
