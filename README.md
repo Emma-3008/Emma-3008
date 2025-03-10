@@ -32,8 +32,7 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github)](https://github.com/Emma-3008/Emma-3008)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/emmanuel-kyei-yeboah-5b73531b1/)  
-📧 Email: [emma556@live.com)  
-
+📧 Email: [your-email@example.com](mailto:emma556@live.com) 
 ---
 
 ## 💼 Portfolio 👇  
