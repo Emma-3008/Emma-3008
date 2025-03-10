@@ -1,6 +1,6 @@
 # 🙋‍♂ Introducing Myself  
 
-## 🌟 Environmental & Financial Economist | Data Analyst | Business Intelligence Professional | Statistics  
+## 🌟 Environmental & Financial Economist | Data Analyst | Business Intelligence Professional | Statistician 
 
 Hello! I’m **Emma**, an Environmental Economist with expertise in integrating sustainability into financial strategies. Skilled in energy economics, environmental policy, and sustainable finance, with a strong focus on data analytics and economic modeling to optimize decision-making and operational performance.  
 
